@@ -1,0 +1,17 @@
+D:\CEITI\..3 КУРС\C#\Lab_7_arrays\bin\Debug\net6.0-windows\Lab_7_arrays.exe
+D:\CEITI\..3 КУРС\C#\Lab_7_arrays\bin\Debug\net6.0-windows\Lab_7_arrays.deps.json
+D:\CEITI\..3 КУРС\C#\Lab_7_arrays\bin\Debug\net6.0-windows\Lab_7_arrays.runtimeconfig.json
+D:\CEITI\..3 КУРС\C#\Lab_7_arrays\bin\Debug\net6.0-windows\Lab_7_arrays.dll
+D:\CEITI\..3 КУРС\C#\Lab_7_arrays\bin\Debug\net6.0-windows\Lab_7_arrays.pdb
+D:\CEITI\..3 КУРС\C#\Lab_7_arrays\obj\Debug\net6.0-windows\Lab_7_arrays.csproj.AssemblyReference.cache
+D:\CEITI\..3 КУРС\C#\Lab_7_arrays\obj\Debug\net6.0-windows\Lab_7_arrays.Form1.resources
+D:\CEITI\..3 КУРС\C#\Lab_7_arrays\obj\Debug\net6.0-windows\Lab_7_arrays.csproj.GenerateResource.cache
+D:\CEITI\..3 КУРС\C#\Lab_7_arrays\obj\Debug\net6.0-windows\Lab_7_arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\CEITI\..3 КУРС\C#\Lab_7_arrays\obj\Debug\net6.0-windows\Lab_7_arrays.AssemblyInfoInputs.cache
+D:\CEITI\..3 КУРС\C#\Lab_7_arrays\obj\Debug\net6.0-windows\Lab_7_arrays.AssemblyInfo.cs
+D:\CEITI\..3 КУРС\C#\Lab_7_arrays\obj\Debug\net6.0-windows\Lab_7_arrays.csproj.CoreCompileInputs.cache
+D:\CEITI\..3 КУРС\C#\Lab_7_arrays\obj\Debug\net6.0-windows\Lab_7_arrays.dll
+D:\CEITI\..3 КУРС\C#\Lab_7_arrays\obj\Debug\net6.0-windows\refint\Lab_7_arrays.dll
+D:\CEITI\..3 КУРС\C#\Lab_7_arrays\obj\Debug\net6.0-windows\Lab_7_arrays.pdb
+D:\CEITI\..3 КУРС\C#\Lab_7_arrays\obj\Debug\net6.0-windows\Lab_7_arrays.genruntimeconfig.cache
+D:\CEITI\..3 КУРС\C#\Lab_7_arrays\obj\Debug\net6.0-windows\ref\Lab_7_arrays.dll
